@@ -1,10 +1,15 @@
 # README: ET Joint Classifier
 ## SAT Classifier
 ### Files
-All files listed under temporalCNN directory are copyright Charlotte Pelletier et al and are used underthe provided GPL-3.0 license. 
+All files listed under `temporalCNN` directory are copyright Charlotte Pelletier et al and are used under the provided GPL-3.0 license. 
 Link: https://github.com/charlotte-pel/temporalCNN
+
+#### joint_classifier.ipynb
+Run joint classifier.
+
 #### temporalCNN/run_main_archi.py
 Run main model.
+
 #### temporalCNN/write_output.py
 Return predictions for a csv. file or tiff image. 
 
