@@ -1,7 +1,9 @@
 # README: ET Regression Model
 ## 1. MET Regression
 file: met_regressory.ipynb
+
 Features: Ground Observations dataset
+
 Predicting: ET Value per day
 
 ## 2. TBD: SAT
